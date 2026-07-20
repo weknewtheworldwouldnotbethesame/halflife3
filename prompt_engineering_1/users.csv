@@ -1,0 +1,6 @@
+username,password,user_type
+client1,client123,client
+client2,client123,client
+worker1,worker123,worker
+worker2,worker123,worker
+manager1,manager123,manager
