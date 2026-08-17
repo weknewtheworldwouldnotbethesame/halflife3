@@ -3,3 +3,5 @@ ticket_id,client_name,title,description,status,assigned_to,created_date,notes
 2,client2,DAE has a very high internet why?,it's not a ticket but I just wonder about it,New,Unassigned,2026-07-16 12:19,
 3,client1,BLABLAJDQWOJDFWEOFJEOWF@EWJFJ@EF,ERKNGIRENFG:EWFIPWEQPFNWEIPNFIPE@NFPINEFPINEQIFNQEIPFIQNEFPI,New,Unassigned,2026-07-16 12:22,
 4,client1,Hello my PC is not working plese help,please see the above,Closed,Unassigned,2026-07-16 13:14,MANAGER RESOLVED
+5,client1,computer is frozen,its been for days,New,Unassigned,2026-08-13 13:54,
+6,client1,3,3,New,Unassigned,2026-08-13 13:55,
