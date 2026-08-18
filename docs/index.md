@@ -8,8 +8,8 @@ title: "Home"
 
 <img src="{{ '/assets/img/headshot.png' | relative_url }}" alt="Jose Quispe" width="200" style="border-radius:50%;margin:6px 0 12px 0;" />
 
-# YOUR NAME
-**Cybersecurity & Backend Development**
+# JOSE QUISPE
+**Backend Development**
 
 **Looking for:** Junior Security Engineer / Backend Developer roles in collaborative, learning‑focused teams.  
 **Graduation:** MONTH YEAR
