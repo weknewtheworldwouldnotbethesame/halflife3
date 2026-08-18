@@ -6,7 +6,11 @@ permalink: /about/
 
 # About Me
 
-I’m Jose Quispe, a developer focused on turning real workflows into clear, useful software. My current coursework explores the same IT ticket manager from several angles: Python, Unix, interface design, logic, prompt engineering, and version control.
+I’m Jose Quispe, Founder and CEO of **Eon Timelines System LLC** and a developer focused on turning real workflows into clear, useful software. My current coursework explores the same IT ticket manager from several angles: Python, Unix, interface design, logic, prompt engineering, and version control.
+
+## Entrepreneurship
+
+As Founder and CEO of Eon Timelines System LLC, I bring together business leadership, technical problem-solving, and software development. I’m building the company while continuing to strengthen my backend development and systems-integration skills.
 
 ## Career Direction
 

@@ -8,9 +8,10 @@ permalink: /resume/
 
 ## Summary
 
-Backend developer and IT support professional with hands-on Python project experience and more than seven years in healthcare systems, staff training, troubleshooting, and workflow improvement.
+Founder and CEO of **Eon Timelines System LLC**, backend developer, and IT support professional with hands-on Python project experience and more than seven years in healthcare systems, staff training, troubleshooting, and workflow improvement.
 
 [Download my résumé (PDF)]({{ '/assets/files/08.01.2026%20JOSE%20RESUME.pdf' | relative_url }}){: .button download="Jose-Quispe-Resume.pdf"}
+[Connect on LinkedIn](https://www.linkedin.com/in/jose-quispe-a7a793426/){: .button}
 
 ## Skills
 - **Programming:** Python, C#, structured data, input validation

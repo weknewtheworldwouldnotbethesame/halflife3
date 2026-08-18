@@ -46,6 +46,7 @@ h2 { margin-top: 2.2rem; color: #d3fff9; }
 p, li { max-width: 70ch; }
 .eyebrow { color: var(--accent); font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
 .lead { color: var(--muted); font-size: 1.2rem; }
+.program-logo { display: block; width: min(100%, 360px); height: auto; margin: 0 0 1.5rem; padding: .7rem 1rem; border-radius: 12px; background: #fff; }
 .button { display: inline-block; margin: .4rem .5rem .4rem 0; padding: .65rem 1rem; border: 1px solid var(--accent); border-radius: 999px; text-decoration: none; font-weight: 700; }
 .site-footer { padding: 0 1rem 2rem; color: var(--muted); text-align: center; font-size: .9rem; }
 code { padding: .1em .3em; border-radius: 4px; background: #06101c; }
