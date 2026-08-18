@@ -1,7 +1,7 @@
-title: "YOUR NAME — Cybersecurity & Backend Developer"
-description: "Portfolio showcasing secure backend systems, automation, and case studies."
-url: "https://kakradetome.github.io"
-baseurl: "/Kay-s-3-Week-Dae-Projects"   # must match repo name exactly
+title: "Jose Quispe — Developer Portfolio"
+description: "Projects and coursework in Python, backend development, cybersecurity, and IT support."
+url: "https://weknewtheworldwouldnotbethesame.github.io"
+baseurl: "/halflife3"
 
 theme: jekyll-theme-slate
 permalink: pretty
@@ -11,15 +11,12 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
 
-# Optional: Minima-style header_pages is harmless; Slate ignores it
-header_pages:
-  - index.md
-  - about.md
-  - projects.md
-  - resume.md
-  - contact.md
-
 exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

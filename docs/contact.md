@@ -4,11 +4,10 @@ title: "Contact"
 permalink: /contact/
 ---
 
-{% include brand.html %}
-{% include nav.html %}
+# Contact
 
-- Email: [you@example.com](mailto:you@example.com)  
-- LinkedIn: [linkedin.com/in/YOUR-HANDLE](https://linkedin.com/in/YOUR-HANDLE)  
-- GitHub: [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+I’m based in Stamford, Connecticut, and I’m open to junior backend development, software development, and technical support opportunities.
 
-{% include footer-note.html %}
+[Visit my GitHub profile](https://github.com/weknewtheworldwouldnotbethesame){: .button}
+[Email me](mailto:jquispe1994@gmail.com){: .button}
+[Download my résumé]({{ '/assets/files/08.01.2026%20JOSE%20RESUME.pdf' | relative_url }}){: .button download="Jose-Quispe-Resume.pdf"}

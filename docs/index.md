@@ -3,20 +3,17 @@ layout: default
 title: "Home"
 ---
 
-{% include brand.html %}
-{% include nav.html %}
+# Jose Quispe
 
-<img src="{{ '/assets/img/headshot.png' | relative_url }}" alt="Jose Quispe" width="200" style="border-radius:50%;margin:6px 0 12px 0;" />
+<p class="eyebrow">Developer · Problem Solver · DAE Student</p>
 
-# JOSE QUISPE
-**Backend Development**
+<p class="lead">I build practical software and backend systems. My current work spans Python tools and a 12-week C#/.NET order-integration capstone.</p>
 
-**Looking for:** Junior Security Engineer / Backend Developer roles in collaborative, learning‑focused teams.  
-**Graduation:** MONTH YEAR
+[View my projects]({{ '/projects/' | relative_url }}){: .button}
+[Get in touch]({{ '/contact/' | relative_url }}){: .button}
 
 ## Highlights
-- Python, Go, TypeScript
-- AWS, Docker, Kubernetes, Terraform
-- Threat modeling, IAM, OWASP ASVS, SAST/DAST
-
-{% include footer-note.html %}
+- Python application development
+- IT ticket workflows and CSV data handling
+- C#, ASP.NET Core, REST APIs, and SQL
+- Version control, Unix, prompt engineering, and interface design

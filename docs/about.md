@@ -4,18 +4,15 @@ title: "About Me"
 permalink: /about/
 ---
 
-{% include brand.html %}
-{% include nav.html %}
+# About Me
 
-I build secure, reliable backend services with **secure-by-default** principles.  
-My ideal team values mentorship, curiosity, and clear communication.
+I’m Jose Quispe, a developer focused on turning real workflows into clear, useful software. My current coursework explores the same IT ticket manager from several angles: Python, Unix, interface design, logic, prompt engineering, and version control.
 
-## Career Aspirations
-- Role: **Security Engineer** or **Backend Developer**
-- Team: inclusive, collaborative, feedback‑friendly
-- Work: secure features, better CI/CD, developer tooling & automation
+## Career Direction
+
+I’m pursuing a **Junior Software Developer** role with a backend focus. I want to build and maintain the systems behind business applications: APIs, databases, integrations, troubleshooting tools, and dependable software features.
+
+My ideal environment is a small or mid-sized technology company with a collaborative team, clear assignments, and mentorship from experienced developers. As I grow, I’m interested in progressing toward Backend Developer, Software Engineer, Integration Engineer, or Cloud Developer roles.
 
 ## Interests
-Threat modeling, incident response, API security.
-
-{% include footer-note.html %}
+Python automation, C# and .NET, backend systems, cybersecurity, user-centered design, and reliable developer workflows.
