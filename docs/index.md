@@ -5,8 +5,6 @@ title: "Home"
 
 # Jose Quispe
 
-<img class="program-logo" src="{{ '/assets/img/dae-wordmark.png' | relative_url }}" alt="DAE" width="540" height="216">
-
 <p class="eyebrow">Founder &amp; CEO · Developer · DAE Student</p>
 
 <p class="lead">I am the Founder and CEO of Eon Timelines System LLC. I build practical software and backend systems, including Python tools and a 12-week C#/.NET order-integration capstone.</p>
@@ -21,3 +19,11 @@ title: "Home"
 - IT ticket workflows and CSV data handling
 - C#, ASP.NET Core, REST APIs, and SQL
 - Version control, Unix, prompt engineering, and interface design
+
+## Education
+
+**DAE — Backend Development**
+
+Current student
+
+<img class="program-logo" src="{{ '/assets/img/dae-wordmark.png' | relative_url }}" alt="DAE education program logo" width="540" height="216">
