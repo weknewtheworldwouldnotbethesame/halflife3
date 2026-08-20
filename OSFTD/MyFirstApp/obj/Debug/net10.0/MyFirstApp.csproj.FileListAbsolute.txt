@@ -1,0 +1,15 @@
+/Users/Adult/Desktop/DAE 6 month cohort 2/OSFTD/MyFirstApp/bin/Debug/net10.0/MyFirstApp
+/Users/Adult/Desktop/DAE 6 month cohort 2/OSFTD/MyFirstApp/bin/Debug/net10.0/MyFirstApp.deps.json
+/Users/Adult/Desktop/DAE 6 month cohort 2/OSFTD/MyFirstApp/bin/Debug/net10.0/MyFirstApp.runtimeconfig.json
+/Users/Adult/Desktop/DAE 6 month cohort 2/OSFTD/MyFirstApp/bin/Debug/net10.0/MyFirstApp.dll
+/Users/Adult/Desktop/DAE 6 month cohort 2/OSFTD/MyFirstApp/bin/Debug/net10.0/MyFirstApp.pdb
+/Users/Adult/Desktop/DAE 6 month cohort 2/OSFTD/MyFirstApp/obj/Debug/net10.0/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Adult/Desktop/DAE 6 month cohort 2/OSFTD/MyFirstApp/obj/Debug/net10.0/MyFirstApp.AssemblyInfoInputs.cache
+/Users/Adult/Desktop/DAE 6 month cohort 2/OSFTD/MyFirstApp/obj/Debug/net10.0/MyFirstApp.AssemblyInfo.cs
+/Users/Adult/Desktop/DAE 6 month cohort 2/OSFTD/MyFirstApp/obj/Debug/net10.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/Users/Adult/Desktop/DAE 6 month cohort 2/OSFTD/MyFirstApp/obj/Debug/net10.0/MyFirstApp.sourcelink.json
+/Users/Adult/Desktop/DAE 6 month cohort 2/OSFTD/MyFirstApp/obj/Debug/net10.0/MyFirstApp.dll
+/Users/Adult/Desktop/DAE 6 month cohort 2/OSFTD/MyFirstApp/obj/Debug/net10.0/refint/MyFirstApp.dll
+/Users/Adult/Desktop/DAE 6 month cohort 2/OSFTD/MyFirstApp/obj/Debug/net10.0/MyFirstApp.pdb
+/Users/Adult/Desktop/DAE 6 month cohort 2/OSFTD/MyFirstApp/obj/Debug/net10.0/MyFirstApp.genruntimeconfig.cache
+/Users/Adult/Desktop/DAE 6 month cohort 2/OSFTD/MyFirstApp/obj/Debug/net10.0/ref/MyFirstApp.dll
