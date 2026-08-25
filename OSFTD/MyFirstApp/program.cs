@@ -1,12 +1,12 @@
 ﻿Console.WriteLine("Order Sync Failure Tracking Dashboard");
 Console.WriteLine("-------------------------------------");
 
-int orderId = 1001;
+int orderId = 10000001;
 string sourceSystem = "Online Store";
 string destinationSystem = "Warehouse";
 string errorMessage = "The Warehouse did not answer";
 int retryCount = 0;
-bool isResolved = false;
+bool isResolved = true;
 DateTime failedAt = DateTime.Now;
 
 Console.WriteLine($"Order ID: {orderId}");
