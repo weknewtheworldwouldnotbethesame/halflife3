@@ -29,3 +29,18 @@ Markdown can help me:
 ## Helpful Resource
 
 I used the [Visual Studio Code Markdown documentation](https://code.visualstudio.com/docs/languages/markdown).
+
+## Code Example
+
+The filename `hello.py` is displayed as inline code.
+
+```python
+
+print("Hello, World!")
+```
+
+## Reflection
+
+Markdown lets me write readable plain text and preview it as a formatted document.
+
+<!-- Comment -->
