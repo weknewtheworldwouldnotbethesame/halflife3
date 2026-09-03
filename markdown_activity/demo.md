@@ -44,3 +44,6 @@ print("Hello, World!")
 Markdown lets me write readable plain text and preview it as a formatted document.
 
 <!-- Comment -->
+![Cat meme](https://media.tenor.com/47qpxBq_Tw0AAAAe/cat-cat-meme.png)
+
+# <span style="color:red"> MY DRUNK CAT </span>
