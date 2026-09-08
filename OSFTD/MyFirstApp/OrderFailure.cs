@@ -1,16 +1,8 @@
-public class OrderFailure
+public class OrderFailure // Blueprint for one failed order
 {
-    public int OrderId { get; set; }
+    public int OrderId { get; set; } // Stores the order number
 
-    public string SourceSystem { get; set; } = "";
+    public string ErrorMessage { get; set; } = ""; // Stores why it failed
 
-    public string DestinationSystem { get; set; } = "";
-
-    public string ErrorMessage { get; set; } = "";
-
-    public int RetryCount { get; set; }
-
-    public bool IsResolved { get; set; }
-
-    public System.DateTime FailedAt { get; set; }
+    public bool IsResolved { get; set; } // true = fixed, false = not fixed
 }
