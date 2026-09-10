@@ -1,4 +1,10 @@
-﻿using System.Collections.Generic;   // Opens the C# toolbox that contains List
+﻿using System.Collections.Generic; // Contains List
+using System.IO; // Contains file instructions
+using System.Text.Json; // Contains JSON instructions
+
+
+
+
 
 // Print the dashboard heading
 Console.WriteLine("Order Sync Failure Tracking Dashboard");
@@ -55,7 +61,8 @@ unresolvedCount = CountUnresolved(failures);
 
 // Display the new count
 Console.WriteLine($"Unresolved failures now: {unresolvedCount}");
-
+// Save the current failure list
+SaveFailures(failures, "failures.json");
 
 // METHOD 1: Display every failure
 void ShowAllFailures(List<OrderFailure> failureList)
