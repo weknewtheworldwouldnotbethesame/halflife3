@@ -1,0 +1,17 @@
+[
+  {
+    "OrderId": 1001,
+    "ErrorMessage": "The warehouse did not answer",
+    "IsResolved": true
+  },
+  {
+    "OrderId": 1002,
+    "ErrorMessage": "The product was not found",
+    "IsResolved": true
+  },
+  {
+    "OrderId": 1003,
+    "ErrorMessage": "The address was missing",
+    "IsResolved": true
+  }
+]
